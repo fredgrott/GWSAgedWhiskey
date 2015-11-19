@@ -35,6 +35,8 @@ Api 16 to api 23.
 Credits
 ========
 
+[eu inloop AndroidViewModel]()
+
 Fred Grott(aka shareme  GrottWorkShop)
 [MyGithubProfile](https://github.com/shareme/MyGithubProfile)
 
