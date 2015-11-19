@@ -37,6 +37,8 @@ Credits
 
 [eu inloop AndroidViewModel]()
 
+[Hannes Dorfmann Mosby]()
+
 Fred Grott(aka shareme  GrottWorkShop)
 [MyGithubProfile](https://github.com/shareme/MyGithubProfile)
 
